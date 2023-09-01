@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tab-item {
+  margin: 20px;
+}
+.tab-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.active-tab-button {
+  border: 1px #0284c7 solid;
+  border-radius: 10px;
+  padding: 4px;
+  color: #0284c7;
+}
